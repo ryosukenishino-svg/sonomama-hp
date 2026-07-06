@@ -41,9 +41,14 @@ python3 -m http.server 4173
 
 を実行して http://localhost:4173 を開く。ビルド不要。
 
-## デプロイ
+## デプロイ(公開中)
 
-静的ファイルのみなので、Netlify / Xserver / さくら等にそのままアップロードすれば公開できる。
+GitHub Pagesで公開中(2026-07-06〜)。
+
+- 公開URL: https://ryosukenishino-svg.github.io/sonomama-hp/
+- リポジトリ: https://github.com/ryosukenishino-svg/sonomama-hp (mainブランチのルートを直接配信)
+- 更新方法: 編集して `git push` するだけ(1〜2分で自動反映)
+- 独自ドメインを当てる場合はリポジトリの Settings → Pages → Custom domain で設定
 
 ## 注意
 
